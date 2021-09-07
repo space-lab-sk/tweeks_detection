@@ -1,0 +1,10 @@
+# train and val data as 1) directory: path/image/, 2) file: path/image.txt, or 3) list: [path1/image/, path2/image/]
+train: ./files/data/Train_batch.txt
+val: ./files/data/Validate_batch.txt
+test: ./files/data/Test_batch.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ['spheric', 'tweek']
