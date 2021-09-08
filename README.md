@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5494705.svg)](https://doi.org/10.5281/zenodo.5494705)
+
 ### Supplemental materials to the paper:
 
 ## Automatic detection of tweek atmospherics in radio spectrograms based on a deep learning approach
